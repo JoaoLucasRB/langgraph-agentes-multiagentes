@@ -6,3 +6,5 @@ Aula 01 - Agente de Inventário Interativo utilizando o modelo ReAct
 Aula 02 - Orquestrando um agente de busca interativo, utilizando LangGraph e Tavily
 
 Aula 03 - Busca agentica e webscrapping
+
+Aula 04 - Persistência e Streaming
