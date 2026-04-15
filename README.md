@@ -8,3 +8,5 @@ Aula 02 - Orquestrando um agente de busca interativo, utilizando LangGraph e Tav
 Aula 03 - Busca agentica e webscrapping
 
 Aula 04 - Persistência e Streaming
+
+Aula 05 - HITL (Human In The Loop), Aprovação Humana e Intervenção
