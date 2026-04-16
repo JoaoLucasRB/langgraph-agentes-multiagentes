@@ -14,3 +14,5 @@ Aula 05 - HITL (Human In The Loop), Aprovação Humana e Intervenção
 Aula 06 - Orquestrando Multiagentes (Planejamento, escritor, reflexão, pesquisa e crítico) utilizando Langgraph, Tavily e Gradio
 
 Aula 07 - Assistente de email com Langchain, ReAct e Langgraph
+
+Aula 08 - Assistente de email com Langchain, ReAct, Langgraph, Memória e HITL
